@@ -1,0 +1,263 @@
+.header{
+      margin-top: 30px;
+    }
+    .start{
+      display: inline-block;
+      vertical-align: top;
+      margin-left: 40px;
+    }
+    .start img{
+      width: 250px;
+    }
+    .end{
+      display: inline-block;
+      align-items: end;
+      vertical-align: top;
+      margin-left: 700px;
+    }
+    .end p{
+      display: inline-block;
+      margin-right: 40px;
+      font-size: 14pxpx;
+    }
+    .end button{
+      font-size: 14px;
+      background-color: white;
+      border: 2px solid black;
+      margin-right: 4px;
+      border-radius: 4px;
+      padding: 8px 10px;
+    }
+    .long{
+      margin-left: 50px;
+      width: 1410px;
+    }
+    .main{
+      box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.1);
+      padding: 12px;
+      width: 900px;
+      margin: 50px auto;
+    }
+    .check{
+      display: inline-block;
+      padding: 15px 20px;
+    }
+    .C p{
+      font-size: 30px;
+      margin: 0;
+    }
+    .check img{
+      width: 400px;
+    }
+     
+    .one{
+      margin-top: 10px;
+      padding: 12px;
+    }
+    .one img{
+      width: 50px;
+    }
+    .one h2{
+      display: inline-block;
+      vertical-align: top;
+    }
+    .Fname{
+      display: inline-block;
+    }
+    .Fname input{
+      background-color: whitesmoke;
+      border: none;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 8px;
+      padding-right: 60px;
+      border-radius: 8px;
+    }
+    .Lname{
+      display: inline-block;
+      margin-left: 20px;
+    }
+    .Lname input{
+      background-color: whitesmoke;
+      border: none;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 8px;
+      padding-right: 60px;
+      border-radius: 8px;
+    }
+    .email input{
+      background-color: whitesmoke;
+      border: none;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 8px;
+      padding-right: 300px;
+      border-radius: 8px;
+    }
+    .t{
+      margin-top: 50px;
+    }
+    .t img{
+      width: 50px;
+    }
+    .t h2{
+      display: inline-block;
+      vertical-align: top;
+    }
+    .c p{
+      font-size: 20px;
+    }
+    .c input{
+      padding-top: 8px;
+      border: none;
+      padding-bottom: 8px;
+      padding-left: 8px;
+      padding-right: 300px;
+      background-color: whitesmoke;
+    }
+    .im{
+      width: 50px;
+      margin-top: 30px;
+    }
+    .buy{
+      margin-top: 30px;
+      padding: 4px;
+    }
+    .buy button{
+      background-color: #038E7D;
+      color: white;
+      border: none;
+      padding: 12px 160px;
+      font-size: 20px;
+      border-radius: 4px;
+    }
+    .que{
+      margin-top: 20px;
+      padding: 4px;
+    }
+    .que img{
+      width: 30px;
+      margin-left: 25px;
+      margin-bottom: 0;
+    }
+    .que span{
+      font-size: 20px;
+      font-weight: bold;
+      color: black;
+    }
+    .que p{
+      color: #DADADA;
+      font-size: 18px;
+      display: inline-block;
+      vertical-align: top;
+      margin-top: 4px;
+      margin-bottom: 0;
+      width: 350px;
+      line-height: 25px;
+    }
+    .pow button{
+      background-color: #DADADA;
+      color: white;
+      padding: 4px;
+      margin-left: 150px;
+      margin-top: 4px;
+      margin-bottom: 12px;
+      font-size: 12px;
+    }
+    .pow span{
+      font-size: 20px;
+      font-weight: bold;
+    }
+    .free{
+      display: inline-block;
+      border: 2px solid;  
+      vertical-align: top;
+      padding-left: 40px;
+      padding-top: 25px;
+      padding-bottom: 115px;
+      padding-right: 60px;
+      background-color: #1179BF;
+      color: white;
+      margin-left: -10px;
+    }
+    .lan{
+      margin: 0;
+      font-size: 25px;
+    }
+    .dol{
+      display: inline-block;
+      margin-top: 25px;
+      margin-bottom: 0;
+      vertical-align: top;
+      font-size: 20px;
+    }
+    .nine{
+      font-size: 60px;
+      margin-bottom: 0;
+      margin-top: 20px;
+      display: inline-block;
+    }
+    .nine span{
+      font-size: 20px;
+    }
+    .auto{
+      font-size: 20px;
+      margin-top: 12px;
+      line-height: 28px;
+    }
+    .div{
+      margin-top: 50px;
+      margin-bottom: 50px;
+    }
+    .use{
+      display: inline-block;
+      font-size: 20px;
+      margin: 0;
+      vertical-align: top;
+      margin-bottom: 4px;
+      margin-left: 8px;
+    }
+    .need{
+      font-size: 20px;
+      margin-bottom: 0;
+    }
+    .switch{
+      font-size: 20px;     
+      margin-top: 8px;
+      margin-bottom: 0;
+    }
+    .ele{
+      margin-bottom: 30px;
+      margin-top: 0;
+      width: 210px;
+    }
+    .D{
+      width: 260px;
+      height: 2px;
+    }
+    .long{
+      width: 250px;
+      font-size: 20px;
+      line-height: 25px;
+      margin-top: 30px;
+      margin-left: 0;
+      margin-bottom: 0;
+    }
+    .long span{
+      font-weight: bold;
+    }
+    .al{
+      margin-top: 20px;
+    }
+    .al img{
+      width: 50px;
+      border-radius: 25px;
+    }
+    .al p{
+      display: inline-block;
+      margin-top: 10px;
+      vertical-align: top;
+      font-size: 20px;
+      font-weight: bold;
+    }
